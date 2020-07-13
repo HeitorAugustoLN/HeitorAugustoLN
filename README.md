@@ -1,5 +1,3 @@
-
-
 # 👋🏽 Hello!
 
 *My name is **Heitor Augusto** and I am **beginner programmer** and **student** in the 7th year of elementary school*
@@ -11,3 +9,8 @@
 - **[Gartic Cheat](https://github.com/HeitorAugustoLN/GarticCheat)**
 
 ###### A simple gartic hack that automatically draws
+
+## 🎓 Studying...
+
+- **Python**
+- **JavaScript**
