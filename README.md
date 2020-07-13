@@ -6,7 +6,7 @@
 
 ## 👨🏽‍💻 Projects
 
-If you want to see my projects, click [here](PROJECTS.md)
+If you want to see my projects, click [here](https://github.com/HeitorAugustoLN/HeitorAugustoLN/blob/master/PROJECTS.md)
 
 ## 🎓 What i am studying...
 
