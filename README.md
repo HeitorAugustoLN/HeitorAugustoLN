@@ -6,21 +6,12 @@
 
 ## 👨🏽‍💻 Projects
 
-- **[Gartic Cheat](https://github.com/HeitorAugustoLN/GarticCheat)**
+If you want to see my projects, click [here](PROJECTS.md)
 
-###### A simple gartic hack that automatically draws
+## 🎓 What i am studying...
 
-## 🎓 Studying...
+I am studying **Python** and **JavaScript**, i pretend to be a **python programmer** and for specific cases, use **JavaScript**
 
-- **Python**
-- **JavaScript**
+## 🌐 Social networks
 
-## 👨🏽‍💻🎓 Study Projects
-
-- **[Python Course](https://github.com/HeitorAugustoLN/Curso-Python)**
-
-###### Python Course Exercises
-
-- **[JavaScript Course]()**
-
-###### JavaScript Course Exercises
+If you want to find me on other social networks, click [here](https://linktr.ee/heitoraugustoln)
