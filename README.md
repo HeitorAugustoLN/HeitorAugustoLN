@@ -14,3 +14,13 @@
 
 - **Python**
 - **JavaScript**
+
+## 👨🏽‍💻🎓 Study Projects
+
+- **[Python Course](https://github.com/HeitorAugustoLN/Curso-Python)**
+
+###### Python Course Exercises
+
+- **[JavaScript Course]()**
+
+###### JavaScript Course Exercises
