@@ -4,6 +4,8 @@
 
 *I am **13 years old** and I want to be a **programmer** when I finish college, if you want to see more click [here](https://github.com/HeitorAugustoLN/HeitorAugustoLN/blob/master/RESUME.md)*
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=HeitorAugustoLN&show_icons=true)
+
 ## 👨🏽‍💻 Projects
 
 If you want to see my projects, click [here](https://github.com/HeitorAugustoLN/HeitorAugustoLN/blob/master/PROJECTS.md)
