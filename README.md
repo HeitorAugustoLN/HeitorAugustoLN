@@ -16,4 +16,4 @@ I am studying **Python** and **JavaScript**, i pretend to be a **python programm
 
 ## 🌐 Social networks
 
-If you want to find me on other social networks, click [here](https://linktr.ee/heitoraugustoln)
+If you want to find me on other social networks, click [here]()
