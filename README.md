@@ -8,7 +8,7 @@
 - 🌱 Learning more about and studying: **Python** and **Open source**
 - 💬 Ping me about: **Python**, **Open source** **Linux** and **Gaming**
 - ❤️ Interests: *Games, Programming Languages, Open source, Linux distros and Hacking*
-- 💻 I am actually using: **Linux (Ubuntu)** and **Windows 10**
+- 💻 I am actually using: **Linux (Mint)** and **Windows 10**
 
 #### Find me around the web 🌐:
 
