@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning: **Python and Tkinter**
 
-- 👨‍💻 All of my projects are available at: [heitoraugustoln.github.io](heitoraugustoln.github.io)
+- 👨‍💻 All of my projects are available at: [heitoraugustoln.github.io](https://heitoraugustoln.github.io)
 
 - 💬 Ask me about: **Python and Linux**
 
