@@ -25,6 +25,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Create a Dynamic Parameter](https://dev.to/heitoraugustoln/how-to-create-a-dynamic-parameter-8h7)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
